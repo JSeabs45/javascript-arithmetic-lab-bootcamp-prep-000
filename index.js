@@ -13,8 +13,9 @@ function multiply(a, b) {
   return number;
 }
 
-function divide() {
-  
+function divide(a, b) {
+  var number = a / b;
+  return number;
 }
 
 function inc(n) {
